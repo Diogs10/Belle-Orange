@@ -422,19 +422,11 @@ input[type="text"] {
 
 /*responsive*/
 @media only screen and (max-width: 1075px) {
-    body
-    {
-        background-color: red;
-    }
     .conteneur>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(6) {
         margin-left: -25%;
     }
 }
 @media only screen and (max-width: 970px) {
-    body
-    {
-        background-color: green;
-    }
     .conteneur>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(5)>div:nth-child(1),.conteneur>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(5)>div:nth-child(2) {
         width: 25%;
     }
